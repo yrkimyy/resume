@@ -1,5 +1,5 @@
 # Site settings
-title: "Yeorae's Resume"
+title: "김여래 | Yeorae's Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "김여래(Yeorae Kim)"
+resume_name:                    "김여래"
 resume_title:                   "DevOps Engineer"
 
 # used for the contact button in _layouts/resume.html
@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>학습한 내용을 공유하고 문제 해결을 위해 적용하는 것까지를 목표로 합니다.\n 최적의 문제 해결방법은 어려운 방법이 아니라 누구나 따라할 수 있는 쉬운 방법이어야 한다고 생각합니다. 생각한 무엇인가를 만들 수 있다는 점에서 코딩을 시작했지만, 그 무엇을 유지하고 견고하게 만드는 것도 중요하다고 생각해서 DevOps 도메인에 매력을 느꼈습니다. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
