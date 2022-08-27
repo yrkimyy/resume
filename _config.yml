@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "김여래"
+resume_name:                    "김 여 래"
 resume_title:                   "DevOps Engineer"
 
 # used for the contact button in _layouts/resume.html
