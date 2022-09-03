@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>직접 서비스를 만들 수 있다는 점에서 코딩을 시작했지만, 그 서비스를 유지하고 견고하게 만들 수 있는 DevOps 도메인에 매력을 느꼈습니다. DevOps로 커리어를 쌓기 위해 Node.js, AWS, Docker, Kubernetes 등의 스킬을 학습했고, 다른 사람들과 공유하는 경험을 쌓아왔습니다. </p> "
+resume_header_intro: "<p>무엇보다도 문제를 해결하는 것이 중요하다고 생각합니다. 그리고 Cloud 기반의 DevOps 도메인은 해결방법의 폭을 넓힐 수 있기 때문에 매력을 느꼈습니다. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
