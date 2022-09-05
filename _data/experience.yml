@@ -3,17 +3,17 @@
 - company: 코드스테이츠
   position: DevOps 부트캠프 교육엔지니어
   duration: Feb, 2021 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: DevOps 부트캠프에서 교육엔지니어로 관련 교육 컨텐츠 및 스프린트 제작 <ul class="resume-item-list"><li>AWS를 사용한 3 Tier Architecture 배포 </li><li>Lambda와 SAM을 이용한 Serverless 아키텍처 구축 스프린트</li><li>Docker와 ECS를 이용한 아키텍처 생성 및 배포</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# # Director of Digital Stratgy
+# - company: United Nations Human Rights Council
+#   position: Director of Digital Strategy
+#   duration:  Jun, 2010 &mdash; Sept, 2013
+#   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# # Communications Coordinator
+# - company: Springfield Women & Children's Center
+#   position: Communications Coordinator
+#   duration:   Jun, 2008  &mdash; May, 2010
+#   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
