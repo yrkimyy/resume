@@ -2,9 +2,9 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
+- project: AWS ECR과 ECS를 이용해 배포하기
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
