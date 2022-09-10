@@ -3,10 +3,10 @@
 
 # jazznotes.io
 - project: AWS ECR과 ECS를 이용해 배포하기
-  role: Founder & Primary Developer
-  duration: 
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  role: 
+  duration: 2022
+  url: "https://yrkimyy.github.io/2022-08-28-demo-vpcendpoints/"
+  description: Dockerfile을 작성해 빌드한 서버를 AWS ECS를 사용해서 배포
 
 # # Springfield Community Outreach Group
 # - project: Springfield Community Outreach Group
