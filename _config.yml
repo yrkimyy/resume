@@ -25,6 +25,7 @@ resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334
 display_header_contact_info:    "false"
 
 resume_header_intro: |
+<br />
   무엇보다도 문제를 해결하는 것이 중요하다고 생각합니다. 
   그리고 클라우드 기반의 DevOps 개발 문화는 해결 방법의 폭을 넓힐 수 있기 때문에 매력을 느꼈습니다. 
   따라서 DevOps 커리어를 위해서, AWS, Docker, Kubernetes, Node.js 등을 학습했고, 다른 사람들과 공유하는 경험을 쌓았습니다.
