@@ -4,43 +4,43 @@
 - company: 수성엔지니어링
   position: DevOps 엔지니어
   duration: 11. 2022 &mdash; Present
-  summary: | 
-  1. Drone Square 프로젝트 진행
-  <ul class="resume-item-list">
-  <li>Github Actions 및 AWS CodePipeline를 활용한 CI/CD 파이프라인 생성</li>
-  <li>AWS 서비스를 활용한 다음과 같은 업무 진행 </li>
-  <ul>
-    <li>ECR을 활용한 이미지 기반의 lambda 함수 배포 시스템 구성</li>
-    <li>이미지 데이터 프로세싱을 위한 Elastic Container Service 구성</li>
-    <li>S3 호스팅 및 이미지 스토리지 서비스 활용</li>
-    <li>Cloudfront의 Origin Access Identity와 Origin Access Control를 통한 S3 접근 제한 적용</li>
-    <li>Aurora RDS Postgres Serverless 사용 및 구성, 스냅샷을 활용한 Cross Account/Region 복제</li>
-    <li>프라이빗 서브넷의 RDS에 접근하기 위한 bastion host 사용</li>
-    <li>Cloudwatch, Cloudtrail을 통한 EC2, RDS, ECS 등 모니터링 대시보드 구축</li>
-    <li>Cloudwatch, Eventbridge 등을 활용한 자동화 구축</li>
-    <li>RDS, S3, Lambda 등을 활용하여 이벤트 기반의 서버리스 아키텍처 구축</li>
-  </ul>
-  <li>Terraform, CDK를 활용한 Infrastructure as Code 작성</li>
-  <li>Dockerfile을 이용한 이미지 기반의 컨테이너 시스템 활용</li>
-  <li>SAM을 활용한 Lambda 함수 제작</li>
-  <li>Python과 Javascript SDK를 이용한 lambda 함수 제작</li>
-  </ul>
-  2. 국가연구과제 프로젝트 진행
-  <ul class="resume-item-list">
-  <li>네이버 클라우드를 활용한 다종데이터 저장 및 사용을 위한 아키텍처 및 인프라 구축 진행</li>
-  <li>위의 인프라를 terraform으로 IaC 작성</li>
-  </ul>
+  summary: |
+    1. Drone Square 프로젝트 진행
+    <ul class="resume-item-list">
+    <li>Github Actions 및 AWS CodePipeline를 활용한 CI/CD 파이프라인 생성</li>
+    <li>AWS 서비스를 활용한 다음과 같은 업무 진행 </li>
+    <ul>
+      <li>ECR을 활용한 이미지 기반의 lambda 함수 배포 시스템 구성</li>
+      <li>이미지 데이터 프로세싱을 위한 Elastic Container Service 구성</li>
+      <li>S3 호스팅 및 이미지 스토리지 서비스 활용</li>
+      <li>Cloudfront의 Origin Access Identity와 Origin Access Control를 통한 S3 접근 제한 적용</li>
+      <li>Aurora RDS Postgres Serverless 사용 및 구성, 스냅샷을 활용한 Cross Account/Region 복제</li>
+      <li>프라이빗 서브넷의 RDS에 접근하기 위한 bastion host 사용</li>
+      <li>Cloudwatch, Cloudtrail을 통한 EC2, RDS, ECS 등 모니터링 대시보드 구축</li>
+      <li>Cloudwatch, Eventbridge 등을 활용한 자동화 구축</li>
+      <li>RDS, S3, Lambda 등을 활용하여 이벤트 기반의 서버리스 아키텍처 구축</li>
+    </ul>
+    <li>Terraform, CDK를 활용한 Infrastructure as Code 작성</li>
+    <li>Dockerfile을 이용한 이미지 기반의 컨테이너 시스템 활용</li>
+    <li>SAM을 활용한 Lambda 함수 제작</li>
+    <li>Python과 Javascript SDK를 이용한 lambda 함수 제작</li>
+    </ul>
+    2. 국가연구과제 프로젝트 진행
+    <ul class="resume-item-list">
+    <li>네이버 클라우드를 활용한 다종데이터 저장 및 사용을 위한 아키텍처 및 인프라 구축 진행</li>
+    <li>위의 인프라를 terraform으로 IaC 작성</li>
+    </ul>
 
 - company: 코드스테이츠
   position: DevOps 부트캠프 교육엔지니어
   duration: 02. 2021 &mdash; 11. 2022
   summary: |
-  DevOps 부트캠프에서 교육엔지니어로 하위와 같은 교육용 컨텐츠 및 실습 과제 설계
-   <ul class="resume-item-list">
-   <li>AWS를 사용한 3 Tier Architecture 배포 </li>
-   <li>Lambda와 SAM을 이용한 Serverless 아키텍처 구축 </li>
-   <li>Docker와 ECS를 이용한 아키텍처 생성 및 배포</li>
-   </ul>
+    DevOps 부트캠프에서 교육엔지니어로 하위와 같은 교육용 컨텐츠 및 실습 과제 설계
+    <ul class="resume-item-list">
+    <li>AWS를 사용한 3 Tier Architecture 배포 </li>
+    <li>Lambda와 SAM을 이용한 Serverless 아키텍처 구축 </li>
+    <li>Docker와 ECS를 이용한 아키텍처 생성 및 배포</li>
+    </ul>
 
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
