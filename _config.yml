@@ -18,19 +18,19 @@ resume_title:                   "DevOps Engineer"
 resume_contact_email:           "kellyyeoraekim@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+82 1076452966"
+resume_contact_telephone:       "+353 0833081340"
 resume_contact_address:         ""
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
 resume_header_intro: |
   <br />
   무엇보다도 문제를 해결하는 것이 중요하다고 생각합니다. 
   그리고 클라우드 기반의 DevOps 개발 문화는 해결 방법의 폭을 넓힐 수 있기 때문에 매력을 느꼈습니다. 
-  
+  <br />
   따라서 DevOps 커리어를 위해서, AWS, Docker, Kubernetes, Node.js 등을 학습했고, 다른 사람들과 공유하는 경험을 쌓았습니다.
-  
+  <br />
   새로운 지식을 체화하기 위한 집중력과 끈기가 강점이며, 적재적소의 커뮤니케이션을 지향합니다. 
 
 # use "yes" to display the email contact button,
@@ -54,13 +54,13 @@ resume_section_projects:        true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/yrkimyy"
-  resume_twitter_url:           "http://twitter.com/devbellrae"
+  # resume_twitter_url:           "http://twitter.com/devbellrae"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/여래-김-510509206"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://yrkimyy.github.io/"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_website_url:           "https://yrkimyy.github.io/"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings

@@ -3,7 +3,9 @@
 ---
 - company: Amazon Web Service
   position: Cloud Support Engineer
-  duration: 14. 2024 &mdash; Present
+  duration: |
+    14. 2024 &mdash; Present
+    <br />
 
 - company: 수성엔지니어링
   position: DevOps 엔지니어

@@ -1,17 +1,17 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+# # Projects
+# # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: AWS ECR과 ECS를 이용해 배포하기
-  role: 
-  duration: 2022
-  url: "https://yrkimyy.github.io/2022-08-28-demo-vpcendpoints/"
-  description: Dockerfile을 작성해 빌드한 서버를 AWS ECS를 사용해서 배포
+# # jazznotes.io
+# - project: AWS ECR과 ECS를 이용해 배포하기
+#   role: 
+#   duration: 2022
+#   url: "https://yrkimyy.github.io/2022-08-28-demo-vpcendpoints/"
+#   description: Dockerfile을 작성해 빌드한 서버를 AWS ECS를 사용해서 배포
 
-# # Springfield Community Outreach Group
-- project: SAM과 Lambda를 사용하여 github, 슬랙 Integration 작업하기
-  role: 
-  duration: 2022
-  url: "https://yrkimyy.github.io/2022-09-01-using-lambda/"
-  description: SAM과 lambda를 사용하여 실시간 푸시 알람 슬랙봇 제작
+# # # Springfield Community Outreach Group
+# - project: SAM과 Lambda를 사용하여 github, 슬랙 Integration 작업하기
+#   role: 
+#   duration: 2022
+#   url: "https://yrkimyy.github.io/2022-09-01-using-lambda/"
+#   description: SAM과 lambda를 사용하여 실시간 푸시 알람 슬랙봇 제작
 
