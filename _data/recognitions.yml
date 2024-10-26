@@ -1,6 +1,11 @@
 # Recognitions
 
 --- 
+- award: Certified Kubernetes Administrator
+  organization: Linux Foundation 
+  year: 2023
+  summary: The certification is  created by the Linux Foundation and the Cloud Native Computing Foundation (CNCF) as a part of their ongoing effort to help develop the Kubernetes ecosystem
+
 - award: Terraform Associate (002)
   organization: Hashcorp 
   year: 2023
